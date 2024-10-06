@@ -1,0 +1,90 @@
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 65 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 128 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:12 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-09-21 15:03:13 INFO  Utils:112 - [TestNG] Running:
+  /private/var/folders/hj/_f7_fpgd1z36qkmd_qkf3z400000gn/T/testng-eclipse-878987662/testng-customsuite.xml
+
+2024-09-21 15:03:13 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 38 ms.
+2024-09-21 15:03:56 INFO  AccountRegistrationTest:26 - ********************Launching Application********************
+2024-09-21 15:04:03 INFO  AccountRegistrationTest:14 - ******Starting Account Registration Test*******
+2024-09-21 15:04:03 INFO  AccountRegistrationTest:19 - Clicking on MyAccount
+2024-09-21 15:04:08 INFO  AccountRegistrationTest:22 - Clicked on Register Link
+2024-09-21 15:04:08 INFO  AccountRegistrationTest:25 - Providing Customer Information
+2024-09-21 15:04:25 INFO  AccountRegistrationTest:39 - Validating Expected Message.....
+2024-09-21 15:04:26 INFO  AccountRegistrationTest:42 - Account Registration Test Passed
+2024-09-21 15:04:26 INFO  AccountRegistrationTest:46 - *******Finished Account Registration Testing*****
+2024-09-21 15:04:31 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@71466383: 0 ms
+2024-09-21 15:04:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@7a2b1eb4: 349 ms
+2024-09-21 15:04:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4339e0de: 1086 ms
+2024-09-21 15:04:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@153cd6bb: 16 ms
+2024-09-21 15:04:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@6428591a: 104 ms
+2024-09-21 15:04:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@f288c14: 147 ms
+2024-09-21 15:04:33 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@46a953cf: 185 ms
+2024-09-21 15:24:28 INFO  Utils:112 - [TestNG] Running:
+  /Users/bigbro/Documents/AutomationSept24/OpenCart/masters.xml
+
+2024-09-21 15:25:34 INFO  AccountRegistrationTest:38 - ********************Launching Application********************
+2024-09-21 15:25:48 INFO  AccountRegistrationTest:16 - ******Starting Account Registration Test*******
+2024-09-21 15:25:49 INFO  AccountRegistrationTest:21 - Clicking on MyAccount
+2024-09-21 15:25:55 INFO  AccountRegistrationTest:24 - Clicked on Register Link
+2024-09-21 15:25:55 INFO  AccountRegistrationTest:27 - Providing Customer Information
+2024-09-21 15:26:12 INFO  AccountRegistrationTest:41 - Validating Expected Message.....
+2024-09-21 15:26:12 INFO  AccountRegistrationTest:44 - Account Registration Test Passed
+2024-09-21 15:26:12 INFO  AccountRegistrationTest:48 - *******Finished Account Registration Testing*****
+2024-09-21 15:31:25 INFO  Utils:112 - [TestNG] Running:
+  /Users/bigbro/Documents/AutomationSept24/OpenCart/crossBrowserTest.xml
+
+2024-09-21 15:32:43 INFO  AccountRegistrationTest:38 - ********************Launching Application********************
+2024-09-21 15:32:48 INFO  AccountRegistrationTest:16 - ******Starting Account Registration Test*******
+2024-09-21 15:32:48 INFO  AccountRegistrationTest:21 - Clicking on MyAccount
+2024-09-21 15:32:53 INFO  AccountRegistrationTest:24 - Clicked on Register Link
+2024-09-21 15:32:53 INFO  AccountRegistrationTest:27 - Providing Customer Information
+2024-09-21 15:34:12 INFO  AccountRegistrationTest:41 - Validating Expected Message.....
+2024-09-21 15:34:13 INFO  AccountRegistrationTest:44 - Account Registration Test Passed
+2024-09-21 15:34:13 INFO  AccountRegistrationTest:48 - *******Finished Account Registration Testing*****
+2024-09-21 15:37:31 INFO  AccountRegistrationTest:38 - ********************Launching Application********************
+2024-09-21 15:37:36 INFO  AccountRegistrationTest:16 - ******Starting Account Registration Test*******
+2024-09-21 15:37:36 INFO  AccountRegistrationTest:21 - Clicking on MyAccount
+2024-09-21 15:37:39 INFO  AccountRegistrationTest:24 - Clicked on Register Link
+2024-09-21 15:37:39 INFO  AccountRegistrationTest:27 - Providing Customer Information
+2024-09-21 15:37:52 INFO  AccountRegistrationTest:41 - Validating Expected Message.....
+2024-09-21 15:37:52 INFO  AccountRegistrationTest:44 - Account Registration Test Passed
+2024-09-21 15:37:52 INFO  AccountRegistrationTest:48 - *******Finished Account Registration Testing*****
+2024-09-21 15:52:30 INFO  Utils:112 - [TestNG] Running:
+  /Users/bigbro/Documents/AutomationSept24/OpenCart/masters.xml
+
+2024-09-21 15:53:27 INFO  AccountRegistrationTest:47 - ********************Launching Application********************
+2024-09-21 15:53:31 INFO  AccountRegistrationTest:16 - ******Starting Account Registration Test*******
+2024-09-21 15:53:31 INFO  AccountRegistrationTest:21 - Clicking on MyAccount
+2024-09-21 15:53:38 INFO  AccountRegistrationTest:24 - Clicked on Register Link
+2024-09-21 15:53:38 INFO  AccountRegistrationTest:27 - Providing Customer Information
+2024-09-21 15:53:50 INFO  AccountRegistrationTest:41 - Validating Expected Message.....
+2024-09-21 15:53:50 INFO  AccountRegistrationTest:44 - Account Registration Test Passed
+2024-09-21 15:53:50 INFO  AccountRegistrationTest:48 - *******Finished Account Registration Testing*****

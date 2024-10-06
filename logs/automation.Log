@@ -1,0 +1,28 @@
+2024-10-06 11:53:43 INFO  AccountRegistrationTest:53 - ********************Launching Application********************
+2024-10-06 11:53:46 INFO  AccountRegistrationTest:14 - ******Starting Account Registration Test*******
+2024-10-06 11:53:46 INFO  AccountRegistrationTest:19 - Clicking on MyAccount
+2024-10-06 11:53:47 INFO  AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-06 11:53:47 INFO  AccountRegistrationTest:25 - Providing Customer Information
+2024-10-06 11:53:49 INFO  AccountRegistrationTest:39 - Validating Expected Message.....
+2024-10-06 11:53:49 INFO  AccountRegistrationTest:42 - Account Registration Test Passed
+2024-10-06 11:53:49 INFO  AccountRegistrationTest:46 - *******Finished Account Registration Testing*****
+2024-10-06 11:53:55 INFO  LoginTest:53 - ********************Launching Application********************
+2024-10-06 11:53:59 INFO  LoginTest:15 - ******** Starting Login Test **********
+2024-10-06 11:53:59 INFO  LoginTest:22 - ******** Clicked On Login Link under MyAccount **********
+2024-10-06 11:53:59 INFO  LoginTest:26 - ******** Adding Login Credentials **********
+2024-10-06 11:54:01 INFO  LoginTest:30 - ******** Clicked On Login Button **********
+2024-10-06 11:54:01 INFO  LoginTest:40 - ******** Login Test Completed **********
+2024-10-06 11:55:52 INFO  AccountRegistrationTest:53 - ********************Launching Application********************
+2024-10-06 11:55:55 INFO  AccountRegistrationTest:14 - ******Starting Account Registration Test*******
+2024-10-06 11:55:55 INFO  AccountRegistrationTest:19 - Clicking on MyAccount
+2024-10-06 11:55:56 INFO  AccountRegistrationTest:22 - Clicked on Register Link
+2024-10-06 11:55:56 INFO  AccountRegistrationTest:25 - Providing Customer Information
+2024-10-06 11:55:59 INFO  AccountRegistrationTest:39 - Validating Expected Message.....
+2024-10-06 11:55:59 INFO  AccountRegistrationTest:42 - Account Registration Test Passed
+2024-10-06 11:55:59 INFO  AccountRegistrationTest:46 - *******Finished Account Registration Testing*****
+2024-10-06 11:56:04 INFO  LoginTest:53 - ********************Launching Application********************
+2024-10-06 11:56:08 INFO  LoginTest:15 - ******** Starting Login Test **********
+2024-10-06 11:56:09 INFO  LoginTest:22 - ******** Clicked On Login Link under MyAccount **********
+2024-10-06 11:56:09 INFO  LoginTest:26 - ******** Adding Login Credentials **********
+2024-10-06 11:56:11 INFO  LoginTest:30 - ******** Clicked On Login Button **********
+2024-10-06 11:56:11 INFO  LoginTest:40 - ******** Login Test Completed **********

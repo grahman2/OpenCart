@@ -1,0 +1,9 @@
+2024-09-22 11:42:48 INFO  Utils:112 - [TestNG] Running:
+  /Users/bigbro/Documents/AutomationSept24/OpenCart/masters.xml
+
+2024-09-22 11:42:55 INFO  LoginTest:47 - ********************Launching Application********************
+2024-09-22 11:42:58 INFO  LoginTest:15 - ******** Starting Login Test **********
+2024-09-22 11:42:59 INFO  LoginTest:22 - ******** Clicked On Login Link under MyAccount **********
+2024-09-22 11:42:59 INFO  LoginTest:26 - ******** Adding Login Credentials **********
+2024-09-22 11:43:00 INFO  LoginTest:30 - ******** Clicked On Login Button **********
+2024-09-22 11:43:01 INFO  LoginTest:40 - ******** Login Test Completed **********
